@@ -1,8 +1,8 @@
 {
   "project_info": {
-    "project_number": "1002561714520",
-    "project_id": "bim-pensi-a0c4f",
-    "storage_bucket": "bim-pensi-a0c4f.firebasestorage.app"
+    "project_number": "",
+    "project_id": "",
+    "storage_bucket": ""
   },
   "client": [
     {
@@ -15,7 +15,7 @@
       "oauth_client": [],
       "api_key": [
         {
-          "current_key": "AIzaSyBYm-ixKCHH3X-dg67vwNQtcL8hwtc5p0M"
+          "current_key": "" //your key
         }
       ],
       "services": {
